@@ -1,0 +1,39 @@
+.test {
+  font-size:92px;
+  color:red;
+}
+
+#mainBody {
+  width:1920px;
+  height:1080px;
+  background-color:maroon;
+  display:block;
+}
+
+.leftColumn {
+  float:left;
+  width:25%;
+  background-color: red;
+  display:block;
+  height:100%;
+}
+
+
+
+.rightColumn {
+  float:right;
+  width:75%;
+  background-color:dimgrey;
+  display:block;
+  height:100%;
+}
+
+.leftColumn-header {
+  height:4%;
+  background-color:red;
+}
+
+.rightColumn-header {
+  height:4%;
+  background-color:dimgrey;
+}
